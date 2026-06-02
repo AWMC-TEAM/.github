@@ -1,2 +1,7 @@
-# .github
-The is the official repo of AWMC TEAM
+# 我们是谁
+AWMC TEAM 初次建立其实是 Milk 一个人所制作的，当时的他非常懵懂，但是对服务器有着基础了解。在机缘巧合下注册了 awmc.cc。
+
+当时只是尝试制作 AWMC 论坛，在后续发展了 AWMC Status，AWMC Bot 等业务。
+
+# 我们做什么
+我们正在发展舞萌相关的内容！包括舞萌状态监测，舞萌机器人，尽量以极低成本为各位玩家效劳。
